@@ -26,6 +26,15 @@ Lisiane Wasem Fagundes - Diretora do Departamento de Assistência Hospitalar e A
 
 Tani Maria Schilling Ranieri - Chefe da Divisão de Vigilância Epidemiológica do CEVS
 
+## Secretaria de Planejamento, Orçamento e Gestão (SEPLAG)
+**Coordenação:** Pedro Tonon Zuanazzi, Estatístico, Doutor em Economia/PUCRS
+
+Juliana Feliciati Hoffmann, Estatística, Doutora em Epidemiologia/UFRGS
+
+Fernanda Rodrigues Vargas, Estatística, Mestre em Estatística/UFMG e Doutoranda em Epidemiologia/UFRGS
+
+Bruno Paim, Economista, Mestre e Doutorando em Economia pela UFRGS
+
 ## Universidade Federal do Rio Grande do Sul (UFRGS)
 **Coordenação:**  Suzi Alves Camey, Professora do Departamento de Estatística e do Programa de Pós-graduação de Epidemiologia da UFRGS, Chefe da Unidade de Bioestatística do HCPA
 
@@ -37,13 +46,3 @@ Tiago Andres Vaz, Cientista da Computação, Doutorando do Programa de Pós-grad
 
 Fernanda Vianna, Professora do Departamento de Genética da UFRGS
 
-## Secretaria de Planejamento, Orçamento e Gestão (SEPLAG)
-**Coordenação:** Pedro Tonon Zuanazzi, Estatístico, Doutor em Economia/PUCRS
-
-Juliana Feliciati Hoffmann, Estatística, Doutora em Epidemiologia/UFRGS
-
-Fernanda Rodrigues Vargas, Estatística, Mestre em Estatística/UFMG e Doutoranda em Epidemiologia/UFRGS
-
-Bruno Paim, Economista, Mestre e Doutorando em Economia pela UFRGS
-
- 
