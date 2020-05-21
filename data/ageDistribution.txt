@@ -56,15 +56,15 @@
 },
 {
   "data": [
-{ "ageGroup" : "0-9", "population": 60420 },
-{ "ageGroup" : "10-19", "population": 70205 },
-{ "ageGroup" : "20-29", "population": 78787 },
-{ "ageGroup" : "30-39", "population": 76705 },
-{ "ageGroup" : "40-49", "population": 69445 },
-{ "ageGroup" : "50-59", "population": 73834 },
-{ "ageGroup" : "60-69", "population": 56344 },
-{ "ageGroup" : "70-79", "population": 33124 },
-{ "ageGroup" : "80+", "population": 17600 }
+{ "ageGroup" : "0-9", "population": 62036 },
+{ "ageGroup" : "10-19", "population": 72106 },
+{ "ageGroup" : "20-29", "population": 81001 },
+{ "ageGroup" : "30-39", "population": 78666 },
+{ "ageGroup" : "40-49", "population": 71321 },
+{ "ageGroup" : "50-59", "population": 76194 },
+{ "ageGroup" : "60-69", "population": 58219 },
+{ "ageGroup" : "70-79", "population": 34239 },
+{ "ageGroup" : "80+", "population": 18181 }
 ],
   "name": "Santa Maria - R01 R02"
 },
@@ -98,15 +98,15 @@
 },
 {
   "data": [
-{ "ageGroup" : "0-9", "population": 58253 },
-{ "ageGroup" : "10-19", "population": 65709 },
-{ "ageGroup" : "20-29", "population": 66970 },
-{ "ageGroup" : "30-39", "population": 59339 },
-{ "ageGroup" : "40-49", "population": 57026 },
-{ "ageGroup" : "50-59", "population": 58745 },
-{ "ageGroup" : "60-69", "population": 42263 },
-{ "ageGroup" : "70-79", "population": 25087 },
-{ "ageGroup" : "80+", "population": 12602 }
+{ "ageGroup" : "0-9", "population": 58724 },
+{ "ageGroup" : "10-19", "population": 66431 },
+{ "ageGroup" : "20-29", "population": 67672 },
+{ "ageGroup" : "30-39", "population": 59910 },
+{ "ageGroup" : "40-49", "population": 57685 },
+{ "ageGroup" : "50-59", "population": 59394 },
+{ "ageGroup" : "60-69", "population": 42690 },
+{ "ageGroup" : "70-79", "population": 25328 },
+{ "ageGroup" : "80+", "population": 12713 }
 ],
   "name": "Uruguaiana - R03"
 },
@@ -266,21 +266,21 @@
 },
 {
   "data": [
-{ "ageGroup" : "0-9", "population": 32420 },
-{ "ageGroup" : "10-19", "population": 36750 },
-{ "ageGroup" : "20-29", "population": 41899 },
-{ "ageGroup" : "30-39", "population": 37192 },
-{ "ageGroup" : "40-49", "population": 36891 },
-{ "ageGroup" : "50-59", "population": 38273 },
-{ "ageGroup" : "60-69", "population": 29966 },
-{ "ageGroup" : "70-79", "population": 17331 },
-{ "ageGroup" : "80+", "population": 8709 },
-{ "ageGroup" : "0-9", "population": 29146 }
+{ "ageGroup" : "0-9", "population": 33448 },
+{ "ageGroup" : "10-19", "population": 37899 },
+{ "ageGroup" : "20-29", "population": 43224 },
+{ "ageGroup" : "30-39", "population": 38343 },
+{ "ageGroup" : "40-49", "population": 38053 },
+{ "ageGroup" : "50-59", "population": 39562 },
+{ "ageGroup" : "60-69", "population": 31116 },
+{ "ageGroup" : "70-79", "population": 17981 },
+{ "ageGroup" : "80+", "population": 9061 }
 ],
   "name": "Santo Ângelo - R11"
 },
 {
   "data": [
+{ "ageGroup" : "0-9", "population": 29146 },
 { "ageGroup" : "10-19", "population": 33466 },
 { "ageGroup" : "20-29", "population": 36669 },
 { "ageGroup" : "30-39", "population": 35229 },
