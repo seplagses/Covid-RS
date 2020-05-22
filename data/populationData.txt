@@ -1,23 +1,23 @@
-name	populationServed	ageDistribution	hospitalBeds	ICUBeds	hemisphere	srcPopulation	srcHospitalBeds	srcICUBeds	
-RSGOV	11329605	Rio Grande do Sul		782	Southern				
-RSPOA	1465430	Porto Alegre			Southern				
-Bagé - R22	184741	Bagé - R22		12	Southern				
-Passo Fundo - R17 R18 R19	668458	Passo Fundo - R17 R18 R19		40	Southern				
-Santa Maria - R01 R02	551963	Santa Maria - R01 R02		38	Southern				
-Ijuí - R13	240503	Ijuí - R13		10	Southern				
-Santa Rosa - R14	236497	Santa Rosa - R14		9	Southern				
-Uruguaiana - R03	450547	Uruguaiana - R03		29	Southern				
-Palmeira Das Missões - R15 R20	361215	Palmeira Das Missões - R15 R20		15	Southern				
-Caxias Do Sul - R23 R24 R25 R26	1186443	Caxias Do Sul - R23 R24 R25 R26		69	Southern				
-Porto Alegre - R09 R10	2745593	Porto Alegre - R09 R10		241	Southern				
-Pelotas - R21	871041	Pelotas - R21		37	Southern				
-Lajeado - R29 R30	366332	Lajeado - R29 R30		30	Southern				
-Novo Hamburgo - R07	819402	Novo Hamburgo - R07		16	Southern				
-Erechim - R16	240074	Erechim - R16		11	Southern				
-Capao Da Canoa - R04 R05	397769	Capao Da Canoa - R04 R05		17	Southern				
-Cachoeira Do Sul - R27	199957	Cachoeira Do Sul - R27		4	Southern				
-Canoas - R08	792767	Canoas - R08		28	Southern				
-Cruz Alta - R12	152581	Cruz Alta - R12		9	Southern				
-Santo Ângelo - R11	288687	Santo Ângelo - R11		20	Southern				
-Taquara - R06	228092	Taquara - R06		4	Southern				
-Santa Cruz Do Sul - R28	346943	Santa Cruz Do Sul - R28		14	Southern				
+name	populationServed	ageDistribution	hospitalBeds	ICUBeds	hemisphere	srcPopulation	srcHospitalBeds	srcICUBeds
+RSGOV	11329605	Rio Grande do Sul		782	Southern			
+RSPOA	1465430	Porto Alegre		174	Southern			
+Bagé - R22	184741	Bagé - R22		12	Southern			
+Passo Fundo - R17 R18 R19	668458	Passo Fundo - R17 R18 R19		40	Southern			
+Santa Maria - R01 R02	551963	Santa Maria - R01 R02		38	Southern			
+Ijuí - R13	240503	Ijuí - R13		10	Southern			
+Santa Rosa - R14	236497	Santa Rosa - R14		9	Southern			
+Uruguaiana - R03	450547	Uruguaiana - R03		29	Southern			
+Palmeira Das Missões - R15 R20	361215	Palmeira Das Missões - R15 R20		15	Southern			
+Caxias Do Sul - R23 R24 R25 R26	1186443	Caxias Do Sul - R23 R24 R25 R26		69	Southern			
+Porto Alegre - R09 R10	2745593	Porto Alegre - R09 R10		241	Southern			
+Pelotas - R21	871041	Pelotas - R21		37	Southern			
+Lajeado - R29 R30	366332	Lajeado - R29 R30		30	Southern			
+Novo Hamburgo - R07	819402	Novo Hamburgo - R07		16	Southern			
+Erechim - R16	240074	Erechim - R16		11	Southern			
+Capao Da Canoa - R04 R05	397769	Capao Da Canoa - R04 R05		17	Southern			
+Cachoeira Do Sul - R27	199957	Cachoeira Do Sul - R27		4	Southern			
+Canoas - R08	792767	Canoas - R08		28	Southern			
+Cruz Alta - R12	152581	Cruz Alta - R12		9	Southern			
+Santo Ângelo - R11	288687	Santo Ângelo - R11		20	Southern			
+Taquara - R06	228092	Taquara - R06		4	Southern			
+Santa Cruz Do Sul - R28	346943	Santa Cruz Do Sul - R28		14	Southern			
