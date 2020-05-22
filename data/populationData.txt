@@ -1,6 +1,6 @@
 name	populationServed	ageDistribution	hospitalBeds	ICUBeds	hemisphere	srcPopulation	srcHospitalBeds	srcICUBeds	
-Rio Grande do Sul	11329605	Rio Grande do Sul		782	Southern				
-Porto Alegre	1465430	Porto Alegre			Southern				
+RSGOV	11329605	Rio Grande do Sul		782	Southern				
+RSPOA	1465430	Porto Alegre			Southern				
 Bagé - R22	184741	Bagé - R22		12	Southern				
 Passo Fundo - R17 R18 R19	668458	Passo Fundo - R17 R18 R19		40	Southern				
 Santa Maria - R01 R02	551963	Santa Maria - R01 R02		38	Southern				
