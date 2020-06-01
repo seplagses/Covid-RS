@@ -1,4 +1,4 @@
-# Last update: 01 jun 2020 17:17
+# Last update: 01 jun 2020 17:18
 # Data source: https://github.com/seplagses/Covid-RS/
 time,regions,cases,deaths,hospitalized,icu,recovered,var,
 2020-02-29,RSGOV,2,0,,,,
