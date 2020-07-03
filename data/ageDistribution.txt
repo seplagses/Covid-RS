@@ -10,7 +10,7 @@
     { "ageGroup" : "70-79", "population": 596737 },
     { "ageGroup" : "80+", "population": 299633 }
     ],
-  "name": "Rio Grande do Sul"
+  "name": "Governo do Estado do Rio Grande do Sul"
 },
 {
   "data": [
@@ -24,7 +24,7 @@
     { "ageGroup" : "70-79", "population": 81674 },
     { "ageGroup" : "80+", "population": 48584 }
     ],
-  "name": "Porto Alegre"
+  "name": "Prefeitura de Porto Alegre"
 },
 {
   "data": [
@@ -38,7 +38,7 @@
     { "ageGroup" : "70-79", "population": 10071 },
     { "ageGroup" : "80+", "population": 5345 }
     ],
-  "name": "Bagé - R22"
+  "name": "Bage-R22"
 },
 {
   "data": [
@@ -52,7 +52,7 @@
     { "ageGroup" : "70-79", "population": 36577 },
     { "ageGroup" : "80+", "population": 17971 }
     ],
-  "name": "Passo Fundo - R17 R18 R19"
+  "name": "Passo Fundo-R17 R18 R19"
 },
 {
   "data": [
@@ -66,7 +66,7 @@
     { "ageGroup" : "70-79", "population": 34239 },
     { "ageGroup" : "80+", "population": 18181 }
     ],
-  "name": "Santa Maria - R01 R02"
+  "name": "Santa Maria-R01 R02"
 },
 {
   "data": [
@@ -80,7 +80,7 @@
     { "ageGroup" : "70-79", "population": 14290 },
     { "ageGroup" : "80+", "population": 7328 }
     ],
-  "name": "Ijuí - R13"
+  "name": "Ijui-R13"
 },
 {
   "data": [
@@ -94,7 +94,7 @@
     { "ageGroup" : "70-79", "population": 15870 },
     { "ageGroup" : "80+", "population": 7523 }
     ],
-  "name": "Santa Rosa - R14"
+  "name": "Santa Rosa-R14"
 },
 {
   "data": [
@@ -108,7 +108,7 @@
     { "ageGroup" : "70-79", "population": 25328 },
     { "ageGroup" : "80+", "population": 12713 }
     ],
-  "name": "Uruguaiana - R03"
+  "name": "Uruguaiana-R03"
 },
 {
   "data": [
@@ -122,7 +122,7 @@
     { "ageGroup" : "70-79", "population": 21866 },
     { "ageGroup" : "80+", "population": 11347 }
     ],
-  "name": "Palmeira Das Missões - R15 R20"
+  "name": "Palmeira Das Missoes-R15 R20"
 },
 {
   "data": [
@@ -136,7 +136,7 @@
     { "ageGroup" : "70-79", "population": 55117 },
     { "ageGroup" : "80+", "population": 27736 }
     ],
-  "name": "Caxias Do Sul - R23 R24 R25 R26"
+  "name": "Caxias Do Sul-R23 R24 R25 R26"
 },
 {
   "data": [
@@ -150,7 +150,7 @@
     { "ageGroup" : "70-79", "population": 137875 },
     { "ageGroup" : "80+", "population": 73304 }
     ],
-  "name": "Porto Alegre - R09 R10"
+  "name": "Porto Alegre-R09 R10"
 },
 {
   "data": [
@@ -164,7 +164,7 @@
     { "ageGroup" : "70-79", "population": 50711 },
     { "ageGroup" : "80+", "population": 26312 }
     ],
-  "name": "Pelotas - R21"
+  "name": "Pelotas-R21"
 },
 {
   "data": [
@@ -178,7 +178,7 @@
     { "ageGroup" : "70-79", "population": 20831 },
     { "ageGroup" : "80+", "population": 10903 }
     ],
-  "name": "Lajeado - R29 R30"
+  "name": "Lajeado-R29 R30"
 },
 {
   "data": [
@@ -192,7 +192,7 @@
     { "ageGroup" : "70-79", "population": 32118 },
     { "ageGroup" : "80+", "population": 13794 }
     ],
-  "name": "Novo Hamburgo - R07"
+  "name": "Novo Hamburgo-R07"
 },
 {
   "data": [
@@ -206,7 +206,7 @@
     { "ageGroup" : "70-79", "population": 15117 },
     { "ageGroup" : "80+", "population": 8418 }
     ],
-  "name": "Erechim - R16"
+  "name": "Erechim-R16"
 },
 {
   "data": [
@@ -220,7 +220,7 @@
     { "ageGroup" : "70-79", "population": 23117 },
     { "ageGroup" : "80+", "population": 9987 }
     ],
-  "name": "Capao Da Canoa - R04 R05"
+  "name": "Capao Da Canoa-R04 R05"
 },
 {
   "data": [
@@ -234,7 +234,7 @@
     { "ageGroup" : "70-79", "population": 12831 },
     { "ageGroup" : "80+", "population": 6315 }
     ],
-  "name": "Cachoeira Do Sul - R27"
+  "name": "Cachoeira Do Sul-R27"
 },
 {
   "data": [
@@ -248,7 +248,7 @@
     { "ageGroup" : "70-79", "population": 34851 },
     { "ageGroup" : "80+", "population": 15065 }
     ],
-  "name": "Canoas - R08"
+  "name": "Canoas-R08"
 },
 {
   "data": [
@@ -262,7 +262,7 @@
     { "ageGroup" : "70-79", "population": 8890 },
     { "ageGroup" : "80+", "population": 4410 }
     ],
-  "name": "Cruz Alta - R12"
+  "name": "Cruz Alta-R12"
 },
 {
   "data": [
@@ -276,7 +276,7 @@
     { "ageGroup" : "70-79", "population": 17981 },
     { "ageGroup" : "80+", "population": 9061 }
     ],
-  "name": "Santo Ângelo - R11"
+  "name": "Santo Angelo-R11"
 },
 {
   "data": [
@@ -290,7 +290,7 @@
     { "ageGroup" : "70-79", "population": 9888 },
     { "ageGroup" : "80+", "population": 4209 }
     ],
-  "name": "Taquara - R06"
+  "name": "Taquara-R06"
 },
 {
   "data": [
@@ -304,7 +304,7 @@
     { "ageGroup" : "70-79", "population": 19169 },
     { "ageGroup" : "80+", "population": 9711 }
     ],
-  "name": "Santa Cruz Do Sul - R28"
+  "name": "Santa Cruz Do Sul-R28"
   },
 {
   "data": [
