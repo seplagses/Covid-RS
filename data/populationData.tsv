@@ -1,23 +1,30 @@
-name	populationServed	ageDistribution	hospitalBeds	ICUBeds	hemisphere	srcPopulation	srcHospitalBeds	srcICUBeds
-BRA-RSGOV	11329605	BRA-RSGOV	6674	826	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-POAGOV	1465430	BRA-POAGOV	1427	280	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Bagé-R22	184741	BRA-Bagé-R22	148	22	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Cachoeira Do Sul-R27	199957	BRA-Cachoeira Do Sul-R27	151	14	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Canoas-R08	792767	BRA-Canoas-R08	292	40	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Capao Da Canoa-R04 R05	397769	BRA-Capao Da Canoa-R04 R05	138	18	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Caxias Do Sul-R23 R24 R25 R26	1186443	BRA-Caxias Do Sul-R23 R24 R25 R26	841	79	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Cruz Alta-R12	152581	BRA-Cruz Alta-R12	247	15	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Erechim-R16	240074	BRA-Erechim-R16	152	23	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Ijuí-R13	240503	BRA-Ijuí-R13	312	9	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Lajeado-R29 R30	366332	BRA-Lajeado-R29 R30	230	30	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Novo Hamburgo-R07	819402	BRA-Novo Hamburgo-R07	370	17	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Palmeira Das Missões-R15 R20	361215	BRA-Palmeira Das Missões-R15 R20	252	17	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Passo Fundo-R17 R18 R19	668458	BRA-Passo Fundo-R17 R18 R19	457	49	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Pelotas-R21	871041	BRA-Pelotas-R21	314	31	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Porto Alegre-R09 R10	2745593	BRA-Porto Alegre-R09 R10	1582	317	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Santa Cruz Do Sul-R28	346943	BRA-Santa Cruz Do Sul-R28	199	28	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Santa Maria-R01 R02	551963	BRA-Santa Maria-R01 R02	299	58	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Santa Rosa-R14	236497	BRA-Santa Rosa-R14	178	10	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Santo Ângelo-R11	288687	BRA-Santo Ângelo-R11	211	18	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Taquara-R06	228092	BRA-Taquara-R06	170	3	Southern	RSGOV	Computed from total bed governament numbers and population size	None
-BRA-Uruguaiana-R03	450547	BRA-Uruguaiana-R03	131	28	Southern	RSGOV	Computed from total bed governament numbers and population size	None
+"name"	"populationServed"	"ageDistribution"	"hospitalBeds"	"ICUBeds"	"hemisphere"	"srcPopulation"	"srcHospitalBeds"	"srcICUBeds"
+"BRA-RSGOV"	11329605	"BRA-RSGOV"	6184	1069	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-POAGOV"	1465430	"BRA-POAGOV"	1080	359	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Bagé-R22"	184741	"BRA-Bagé-R22"	148	26	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Cachoeira Do Sul-R27"	199957	"BRA-Cachoeira Do Sul-R27"	151	11	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Canoas-R08"	792767	"BRA-Canoas-R08"	300	57	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Capao Da Canoa-R04 R05"	397769	"BRA-Capao Da Canoa-R04 R05"	138	20	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Caxias Do Sul-R23 R24 R25 R26"	1186443	"BRA-Caxias Do Sul-R23 R24 R25 R26"	910	144	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Cruz Alta-R12"	152581	"BRA-Cruz Alta-R12"	247	18	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Erechim-R16"	240074	"BRA-Erechim-R16"	144	33	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Ijuí-R13"	240503	"BRA-Ijuí-R13"	311	12	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Lajeado-R29 R30"	366332	"BRA-Lajeado-R29 R30"	198	37	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Novo Hamburgo-R07"	819402	"BRA-Novo Hamburgo-R07"	233	49	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Palmeira Das Missões-R15 R20"	361215	"BRA-Palmeira Das Missões-R15 R20"	242	25	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Passo Fundo-R17 R18 R19"	668458	"BRA-Passo Fundo-R17 R18 R19"	468	76	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Pelotas-R21"	871041	"BRA-Pelotas-R21"	250	37	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Porto Alegre-R09 R10"	2745593	"BRA-Porto Alegre-R09 R10"	1226	367	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Santa Cruz Do Sul-R28"	346943	"BRA-Santa Cruz Do Sul-R28"	199	27	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Santa Maria-R01 R02"	551963	"BRA-Santa Maria-R01 R02"	313	55	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Santa Rosa-R14"	236497	"BRA-Santa Rosa-R14"	178	15	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Santo Ângelo-R11"	288687	"BRA-Santo Ângelo-R11"	268	18	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Taquara-R06"	228092	"BRA-Taquara-R06"	100	14	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"BRA-Uruguaiana-R03"	450547	"BRA-Uruguaiana-R03"	160	28	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Sul"	1055782	"Sul"	398	63	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Norte"	1269747	"Norte"	854	134	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Centro-Oeste"	1002510	"Centro-Oeste"	473	83	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Missioneira"	918268	"Missioneira"	1004	63	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Serra"	1186443	"Serra"	910	144	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Metropolitana"	4983623	"Metropolitana"	1997	507	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
+"Vales"	913232	"Vales"	548	75	"Southern"	"RSGOV"	"Computed from total bed governament numbers and population size"	"None"
