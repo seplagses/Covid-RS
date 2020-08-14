@@ -142,17 +142,31 @@
   },
   {
     "data": [
-      { "ageGroup" : "0-9", "population": 342071 },
-      { "ageGroup" : "10-19", "population": 365923 },
-      { "ageGroup" : "20-29", "population": 425604 },
-      { "ageGroup" : "30-39", "population": 439990 },
-      { "ageGroup" : "40-49", "population": 361774 },
-      { "ageGroup" : "50-59", "population": 338292 },
-      { "ageGroup" : "60-69", "population": 260760 },
-      { "ageGroup" : "70-79", "population": 137875 },
-      { "ageGroup" : "80+", "population": 73304 }
+      { "ageGroup" : "0-9", "population": 48688 },
+      { "ageGroup" : "10-19", "population": 58857 },
+      { "ageGroup" : "20-29", "population": 62532 },
+      { "ageGroup" : "30-39", "population": 60978 },
+      { "ageGroup" : "40-49", "population": 53855 },
+      { "ageGroup" : "50-59", "population": 51315 },
+      { "ageGroup" : "60-69", "population": 37933 },
+      { "ageGroup" : "70-79", "population": 20176 },
+      { "ageGroup" : "80+", "population": 9460 }
       ],
-    "name": "RS-Porto Alegre-R09 R10"
+    "name": "RS-Guaiba-R09"
+  },
+  {
+    "data": [
+      { "ageGroup" : "0-9", "population": 293383 },
+      { "ageGroup" : "10-19", "population": 307066 },
+      { "ageGroup" : "20-29", "population": 363072 },
+      { "ageGroup" : "30-39", "population": 379012 },
+      { "ageGroup" : "40-49", "population": 307919 },
+      { "ageGroup" : "50-59", "population": 286977 },
+      { "ageGroup" : "60-69", "population": 222827 },
+      { "ageGroup" : "70-79", "population": 117699 },
+      { "ageGroup" : "80+", "population": 63844 }
+      ],
+    "name": "RS-Porto Alegre-R10"
   },
   {
     "data": [
