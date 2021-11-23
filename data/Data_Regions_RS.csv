@@ -1,4 +1,4 @@
-# Last update: 23 nov 2021 14:35
+# Last update: 23 nov 2021 13:35
 # Data source: https://github.com/seplagses/Covid-RS/
 time,regions,cases,deaths,hospitalized,icu,recovered
 2020-02-25,Governo do Estado do Rio Grande do Sul,1,0,,,
